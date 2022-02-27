@@ -1,0 +1,21 @@
+(500, 1500)
+1.0
+Enter the yes, no, abstained votes one by one and then press enter:yes yes no
+proposal passes with super majority
+(0.0, 5)
+
+None
+Enter the yes, no, abstained votes one by one and then press enter:yes
+proposal passes unanimously
+(7.0, 8.0)
+
+(950, 1950)
+Enter the yes, no, abstained votes one by one and then press enter:yes abstained yes no
+proposal passes with super majority
+(9.0, 4.0)
+
+Enter the yes, no, abstained votes one by one and then press enter:no yes
+proposal passes with simple majority
+
+Enter the yes, no, abstained votes one by one and then press enter:no NO yes
+proposal fails
